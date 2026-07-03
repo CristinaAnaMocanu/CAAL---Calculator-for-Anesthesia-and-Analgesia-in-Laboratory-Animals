@@ -1,0 +1,161 @@
+{
+  "exportat": "2026-06-25T13:29:11.107Z",
+  "versiune": "1.0.0",
+  "experimente": {
+    "Demo": {
+      "code": "Demo",
+      "created": "2026-06-03T11:53:12.067Z",
+      "animalMode": "individual",
+      "estNr": "",
+      "estGreutate": "",
+      "animals": [
+        {
+          "id": "1",
+          "greutate": "26.4",
+          "anestezie": true,
+          "analgezie": false
+        },
+        {
+          "id": "2",
+          "greutate": "20.3",
+          "anestezie": true,
+          "analgezie": false
+        },
+        {
+          "id": "3",
+          "greutate": "22.8",
+          "anestezie": true,
+          "analgezie": true
+        },
+        {
+          "id": "4",
+          "greutate": "22.2",
+          "anestezie": true,
+          "analgezie": true
+        },
+        {
+          "id": "5",
+          "greutate": "27.4",
+          "anestezie": true,
+          "analgezie": true
+        },
+        {
+          "id": "6",
+          "greutate": "26.8",
+          "anestezie": true,
+          "analgezie": true
+        },
+        {
+          "id": "7",
+          "greutate": "28.9",
+          "anestezie": true,
+          "analgezie": true
+        },
+        {
+          "id": "8",
+          "greutate": "20.9",
+          "anestezie": true,
+          "analgezie": false
+        },
+        {
+          "id": "9",
+          "greutate": "24.2",
+          "anestezie": true,
+          "analgezie": false
+        },
+        {
+          "id": "10",
+          "greutate": "20.3",
+          "anestezie": true,
+          "analgezie": true
+        },
+        {
+          "id": "11",
+          "greutate": "22.2",
+          "anestezie": false,
+          "analgezie": true
+        },
+        {
+          "id": "12",
+          "greutate": "25.1",
+          "anestezie": false,
+          "analgezie": true
+        },
+        {
+          "id": "13",
+          "greutate": "20.3",
+          "anestezie": true,
+          "analgezie": false
+        },
+        {
+          "id": "14",
+          "greutate": "22",
+          "anestezie": false,
+          "analgezie": true
+        },
+        {
+          "id": "15",
+          "greutate": "26",
+          "anestezie": false,
+          "analgezie": false
+        }
+      ],
+      "bibliografie": []
+    }
+  },
+  "logAnestezie": [],
+  "logAnalgezie": [],
+  "logToate": [
+    {
+      "id": 1780640700000,
+      "tip": "analgezie",
+      "dataInreg": "05.06.2026, 09:25",
+      "dataProc": "2026-06-08 – 2026-06-10",
+      "experiment": "Demo",
+      "animale": "9 animals: 3, 4, 5, 6, 7, 10, 11, 12, 14",
+      "greutate": "24.200 g",
+      "compozitie": "60 μl Buprenorphine 0.3 mg/ml\n840 μl Diluent",
+      "dozaInfo": "5 μl/g\n3 doze\nBuprenorphine: 0.100 mg/kg",
+      "nrDoze": 3,
+      "volFinal": "—",
+      "volComponente": "Buprenorphine: 228.6 μl",
+      "eroare": 5,
+      "obs": "",
+      "nrAutorizatieProiect": ""
+    },
+    {
+      "id": 1780640760000,
+      "tip": "atipamezol",
+      "dataInreg": "05.06.2026, 09:26",
+      "dataProc": "2026-06-08",
+      "experiment": "Demo",
+      "animale": "11 animals: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 13",
+      "greutate": "23.682",
+      "compozitie": "50 μl Atipamezol 5 mg/ml\n950 μl Diluent",
+      "dozaInfo": "4 μl/g\nAtipamezol: 1.00 mg/kg",
+      "nrDoze": "",
+      "volFinal": "—",
+      "volComponente": "Atipamezol: 54.7 μl",
+      "eroare": 5,
+      "obs": "reversie pentru investigatii non-invazive",
+      "nrAutorizatieProiect": "Ex: 123/2026"
+    },
+    {
+      "id": 1780644360000,
+      "tip": "anestezie",
+      "dataInreg": "05.06.2026, 10:26",
+      "dataProc": "2026-06-08",
+      "experiment": "Demo",
+      "animale": "11 animals: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 13",
+      "greutate": "23.682",
+      "compozitie": "100 μl Ketamine 100 mg/ml\n50 μl Xylazine 20 mg/ml\n850 μl Diluent",
+      "dozaInfo": "10 μl/g\nKetamine: 100.0 mg/kg\nXylazine: 10.0 mg/kg",
+      "nrDoze": "",
+      "volFinal": "2735.27 μl",
+      "volComponente": "Ketamine: 273.5 μl\nXylazine: 136.8 μl\n",
+      "eroare": 5,
+      "obs": "",
+      "nrAutorizatieProiect": ""
+    }
+  ]
+}
