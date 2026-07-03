@@ -3,6 +3,8 @@
 CAAL is a browser-based calculator for planning anesthetic and analgesic substance volumes in laboratory animal experiments.
 It is designed to help plan substance volumes before procedures, minimizing dosing errors and reducing substance waste.
 
+![CAAL preview](screenshot.png)
+
 ## Features
 
 - Anesthesia calculator (ketamine/xylazine and other combinations) — direct and reverse calculation (from dose to volume, or from available volume to dose)
